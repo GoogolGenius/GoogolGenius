@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GoogleGenius
 - 👀 I’m interested in Python, JavaScript, Web Development, and Discord Bots
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: GoogleGenius#3876 on Discord
+- 📫 How to reach me: GoogleGenius#2007 on Discord
