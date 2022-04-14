@@ -18,6 +18,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=googlegenius&show_icons=true&locale=en&layout=compact" alt="googlegenius" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=googlegenius&show_icons=true&locale=en" alt="googlegenius" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=googlegenius&show_icons=true&locale=en" alt="googlegenius" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=googlegenius&" alt="googlegenius" /></p>
