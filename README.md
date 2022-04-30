@@ -1,23 +1,18 @@
-<h1 align="center">Hi 👋, I'm GoogleGenius</h1>
-<h3 align="center">Currently a Python developer</h3>
+# Hello World! I'm GoogleGenius
 
-- 🔭 I’m currently working on [Scripty](https://github.com/scriptydev)
+A developer in the United States working on various projects and currently learning **[Python](https://python.org)** as well as **web development**.  
+Notable projects include **[Scripty](https://github.com/scriptydev)** and the **[LMHS Course Inspector Project](https://github.com/courseinspector)**.
 
-- 🌱 I’m currently learning **Python**
+Reach out to me on Discord `GoogleGenius#0003` or [email](mailto:erich.nguyen@outlook.com). 
 
-- 📫 How to reach me **GoogleGenius#2007**
+**Social:**
+<a href="https://twitter.com/_GoogleGenius_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_GoogleGenius_" height="20"/></a>
+<a href="https://stackoverflow.com/users/16394485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16394485" height="20"/></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_googlegenius_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_googlegenius_" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16394485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16394485" height="30" width="40" /></a>
-</p>
+[![GoogleGenius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoogleGenius&count_private=true&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/GoogleGenius#gh-dark-mode-only)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/GoogleGenius#gh-dark-mode-only)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=googlegenius&show_icons=true&locale=en&layout=compact" alt="googlegenius" /></p>
+[![GoogleGenius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoogleGenius&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/GoogleGenius#gh-light-mode-only)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=googlegenius&show_icons=true&locale=en" alt="googlegenius" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=googlegenius&" alt="googlegenius" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoogleGenius&layout=compact&theme=default#gh-light-mode-only)](https://github.com/GoogleGenius#gh-light-mode-only)
