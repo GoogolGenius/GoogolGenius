@@ -1,7 +1,8 @@
 # Hello World! I'm GoogleGenius
 
-A developer in the United States working on various projects and currently learning **[Python](https://python.org)** as well as **web development**.  
-Notable projects include **[Scripty](https://github.com/scriptydev/scripty-hikari) @scriptydev** and the **[LMHS Course Inspector Project](https://github.com/courseinspector/courseinspector) @courseinspector**.
+A developer in the United States working on various projects and currently learning **[Python](https://python.org)** as well as **web development**.
+
+Notable projects include **[Scripty](https://github.com/scriptydev/scripty-hikari) @scriptydev** and the **[LMHS Course Inspector Project](https://github.com/courseinspector/courseinspector) @courseinspector**. I am also currently working on a [wrapper](https://github.com/GoogleGenius/plane) for the [Ravy API](https://ravy.org/api).
 
 Reach out to me on Discord **`GoogleGenius#7777`** or **[email](mailto:erich.nguyen@outlook.com)**.
 
