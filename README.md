@@ -1,10 +1,10 @@
-# Hello World! I'm GoogolGenius
-**https://erich.pages.dev**
+# GoogolGenius
 
+```javascript
+print("Hello World!")
+console.log('Hello World!');
+System.out.println("Hello World!");
+std::cout << "Hello World!";
+```
 
-
-[![GoogolGenius's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoogolGenius&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/GoogolGenius#gh-dark-mode-only)
-
-
-
-[![GoogolGenius's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoogolGenius&layout=compact&theme=default#gh-light-mode-only)](https://github.com/GoogolGenius#gh-light-mode-only)
+**[Personal Website](https://erich.pages.dev)** 
